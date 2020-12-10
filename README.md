@@ -4,7 +4,7 @@
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-    - [Awesome Python](#awesome-python)
+   - [Awesome Python](#awesome-python)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [ASGI Servers](#asgi-servers)
